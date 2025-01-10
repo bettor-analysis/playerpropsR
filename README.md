@@ -50,6 +50,5 @@ fetches real-time odds and compares them to a selected “sharp” book for pote
 - Customize \`credentials\` in \`playerpropapp.R\` to secure your application.
 - Adjust the **markets** lists to fit your needs or add new sports as they become available from the Odds API.
 
-## License
-Distributed under an open-source license (MIT or similar). See [LICENSE](LICENSE) for more details.
+
 `;
